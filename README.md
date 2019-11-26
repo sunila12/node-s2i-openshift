@@ -31,6 +31,9 @@ https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html
 
 https://blog.adafruit.com/2018/04/16/machine-learning-helps-to-grok-blood-test-results/
 
+
+no
+
 [ concept screenshot to come ]
 
 Example has also heard a lot about cloud computing. There is a lot of traditional code in the mainframe and in classic Java app servers. It works well for now ... but some of the software architects think it may be complimentary to explore some machine learning, and to accelerate development of new user interfaces in the cloud ( either public or private )
